@@ -1,7 +1,7 @@
 ---
 title: "test"
 date: 2020-02-16
-categories: first post
+categories: jekyll update
 ---
 
 # first post
