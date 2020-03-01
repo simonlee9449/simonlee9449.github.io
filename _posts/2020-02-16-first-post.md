@@ -1,7 +1,7 @@
 ---
 title: "블로그를 쓰게 된 이유"
-date: 2017-10-20 08:26:28 -0400
-categories: jekyll update
+date: 2020-03-01
+categories: 
 ---
 
 # 블로그를 쓰게 된 이유
