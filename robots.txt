@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://simonlee9449.github.io/simonlee9449.github.io/sitemap.xml
